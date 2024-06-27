@@ -6,7 +6,8 @@ export default function Footer () {
       <p><strong>Disclaimer:</strong> This is not financial advice. We are not responsible for the accuracy of this information. We are not responsible for anything. You are responsible for your own decisions and your losses. This is for entertainment purposes only.</p>
         <div className="mt-4">
         <p>
-          dev by <Link href="https://kwaji.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">kwaji</Link>
+          say hi in the <Link href="https://discord.gg/omakase" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">discord</Link>,
+          code by <Link href="https://kwaji.com" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">kwaji</Link>
         </p>
       </div>
     </footer>
