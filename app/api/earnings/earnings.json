@@ -1,0 +1,12 @@
+[
+  {
+    "ticker": "example ticker",
+    "earnings_date": "2024-06-27",
+    "market_session": "pre"
+  },
+  {
+    "ticker": "example ticker 2",
+    "earnings_date": "2024-06-27",
+    "market_session": "after"
+  }
+]
