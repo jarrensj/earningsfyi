@@ -1,9 +1,16 @@
+import Footer from "@/components/Footer";
 import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center p-24">
-      <h1 className="text-2xl font-bold">yo</h1>
-    </main>
+    <div className="flex min-h-screen flex-col items-center">
+      <main className="flex flex-col items-center p-24 flex-grow">
+      <h1 className="text-2xl font-bold mb-4">earnings.fyi</h1>
+        <p className="text-lg text-center mb-4">
+          This is not financial advice.
+        </p>
+      </main>
+      <Footer />
+    </div>
   );
 }
